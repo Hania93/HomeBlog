@@ -1,0 +1,19 @@
+{
+  "name": "homeblog",
+  "version": "1.0.0",
+  "description": "This is a website about home.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hania1441/HomeBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hania1441/HomeBlog/issues"
+  },
+  "homepage": "https://github.com/hania1441/HomeBlog#readme"
+}
