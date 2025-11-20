@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hania1441/HomeBlog/issues"
   },
-  "homepage": "https://github.com/hania1441/HomeBlog#readme"
+  "homepage": "https://github.com/hania1441/HomeBlog#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
 }
